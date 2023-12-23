@@ -117,12 +117,15 @@
 // var array1 = [5, 10, 50, 500];
 // console.log(array1.every((x) => x % 5 === 0));
  
-var isMultipeof5 = (no) => {
-        console.log(no)
-        return no % 5 != 0;
-    };
+// var isMultipeof5 = (no) => {
+//         console.log(no)
+//         return no % 5 != 0;
+//     };
     
-    var array123 =[5, 10, 15, 20];
-    var result = array123.every(isMultipeof5);
-    console.log("Result" + result);
+//     var array123 =[5, 10, 15, 20];
+//     var result = array123.every(isMultipeof5);
+//     console.log("Result" + result);
     
+console.log('5-speed-limits');
+<h3>Write a function which checks given inputa</h3>
+
